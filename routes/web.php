@@ -29,7 +29,4 @@ Route::group(['middleware' => ['auth']], function (){
     Route::get('/estados', Estados::class)->name('estados');
     Route::get('/prioridades', Prioridades::class)->name('prioridades');
     Route::get('/proyectos', Proyectos::class)->name('proyectos');
-    // Route::get('/contactanosBack', ContactanosBack::class)->name('contactanosBack');
-    // Route::get('/contactanosDashboard', ContactanosDashboard::class)->name('contactanosDashboard');
-    // Route::get('/contactanosHistorial', ContactanosHistorial::class)->name('contactanosHistorial');
 });
