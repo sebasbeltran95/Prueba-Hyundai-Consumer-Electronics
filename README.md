@@ -1,10 +1,10 @@
 <p align="center"><a href="https://laravel.com" target="_blank"><img src="public/img/logo.png" width="400" alt="InnClod"></a></p>
 
-## Prosfot
+## Hyundai - Consumer Electronics
 
 Se realiza prueba tectnica CRUD de un proyecto de sistema de gestion de tareas en el  framework laravel 10, livewire 2, bootstrap y MySQL las instrucciones de despliegue son las siguientes:
 
-- Clonar el repositorio (https://github.com/sebasbeltran95/Prosoft-Prueba.git).
+- Clonar el repositorio (https://github.com/sebasbeltran95/Prueba-Hyundai-Consumer-Electronics.git).
 - Descomprimir los archivos vendor.rar y .rar.
 - Realizar un composer update.
 - Ejecutar la migracion (php artisan migrate).
